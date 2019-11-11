@@ -1,0 +1,17 @@
+C:\Users\hitaishi\source\repos\BankingApplication\TransactionAPI\obj\Debug\netcoreapp2.2\TransactionAPI.csprojAssemblyReference.cache
+C:\Users\hitaishi\source\repos\BankingApplication\TransactionAPI\obj\Debug\netcoreapp2.2\TransactionAPI.csproj.CoreCompileInputs.cache
+C:\Users\hitaishi\source\repos\BankingApplication\TransactionAPI\obj\Debug\netcoreapp2.2\TransactionAPI.RazorAssemblyInfo.cache
+C:\Users\hitaishi\source\repos\BankingApplication\TransactionAPI\obj\Debug\netcoreapp2.2\TransactionAPI.RazorAssemblyInfo.cs
+C:\Users\hitaishi\source\repos\BankingApplication\TransactionAPI\obj\Debug\netcoreapp2.2\TransactionAPI.AssemblyInfoInputs.cache
+C:\Users\hitaishi\source\repos\BankingApplication\TransactionAPI\obj\Debug\netcoreapp2.2\TransactionAPI.AssemblyInfo.cs
+C:\Users\hitaishi\source\repos\BankingApplication\TransactionAPI\bin\Debug\netcoreapp2.2\TransactionAPI.deps.json
+C:\Users\hitaishi\source\repos\BankingApplication\TransactionAPI\bin\Debug\netcoreapp2.2\TransactionAPI.runtimeconfig.json
+C:\Users\hitaishi\source\repos\BankingApplication\TransactionAPI\bin\Debug\netcoreapp2.2\TransactionAPI.runtimeconfig.dev.json
+C:\Users\hitaishi\source\repos\BankingApplication\TransactionAPI\bin\Debug\netcoreapp2.2\TransactionAPI.dll
+C:\Users\hitaishi\source\repos\BankingApplication\TransactionAPI\bin\Debug\netcoreapp2.2\TransactionFramework.dll
+C:\Users\hitaishi\source\repos\BankingApplication\TransactionAPI\bin\Debug\netcoreapp2.2\TransactionFramework.pdb
+C:\Users\hitaishi\source\repos\BankingApplication\TransactionAPI\obj\Debug\netcoreapp2.2\TransactionAPI.RazorTargetAssemblyInfo.cache
+C:\Users\hitaishi\source\repos\BankingApplication\TransactionAPI\obj\Debug\netcoreapp2.2\TransactionAPI.csproj.CopyComplete
+C:\Users\hitaishi\source\repos\BankingApplication\TransactionAPI\bin\Debug\netcoreapp2.2\TransactionAPI.pdb
+C:\Users\hitaishi\source\repos\BankingApplication\TransactionAPI\obj\Debug\netcoreapp2.2\TransactionAPI.dll
+C:\Users\hitaishi\source\repos\BankingApplication\TransactionAPI\obj\Debug\netcoreapp2.2\TransactionAPI.pdb

@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  bankingapplication:
+    image: ${DOCKER_REGISTRY-}bankingapplication
+    build:
+      context: .
+      dockerfile: BankingApplication/Dockerfile
